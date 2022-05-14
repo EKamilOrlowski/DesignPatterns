@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DesignPatternsApp\DesignPatternsApp\DesignPatternsApp.csproj" />
+    <ProjectReference Include="..\DesignPatternsApp\DesignPatternsApp.csproj" />
   </ItemGroup>
 
 </Project>
